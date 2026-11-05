@@ -1,2 +1,5 @@
 .DS_Store
 image_converter/venv
+build
+__pycache__/
+tools/venv
